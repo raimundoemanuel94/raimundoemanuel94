@@ -41,8 +41,6 @@ PWA Premium para gestão de treinos. Foco total em **densidade visual** e **perf
 #### 🔧 Click Suporte
 Solução integrada para gestão de serviços técnicos, otimizando o fluxo de diagnósticos e atendimento ao cliente.
 
-#### 🚜 White Cotton
-Site institucional moderno para o agronegócio, unindo dados de mercado a uma interface fluida e profissional.
 
 ---
 
