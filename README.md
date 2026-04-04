@@ -1,51 +1,80 @@
-# Olá, eu sou o Raimundo Emanuel 👋
-
-Analista e Desenvolvedor de Sistemas em constante evolução, focado em transformar ideias em produtos digitais de alto impacto. Tenho forte interesse em **ecossistemas Mobile, Segurança da Informação e Inteligência Artificial**.
-
----
-
-### 🚀 Sobre Mim
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-- 💡 Focado em arquitetura limpa e experiência do usuário (UX).
-- 🛠️ Atualmente aprimorando lógica complexa com Python e escalabilidade no ecossistema Web.
-- 🏛️ Localizado no Brasil, pronto para desafios globais.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Banner" />
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FDE047&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Sistemas;Criando+Apps+Premium;Foco+em+UX+e+Performance;Evoluindo+Todos+os+Dias" alt="Typing SVG" />
+</div>
 
 ---
 
-### 💻 Tech Stack
+### 👋 Sobre Mim
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+Sou **Raimundo Emanuel**, Analista e Desenvolvedor de Sistemas em constante evolução. Meu foco é transformar complexidade em soluções digitais fluidas, robustas e de alto impacto visual.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 💡 Especialista em **UX/UI Mobile-Native** e performance PWA.
+- 🛠️ Atualmente focado em **Python, Escalabilidade Web e Segurança**.
+- 🚀 Construindo o futuro da fitness tech com o ecossistema **Zyron**.
 
 ---
 
-### 📂 Projetos em Destaque
+### 💻 Stack Tecnológica
+
+<div align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📂 Portfólio em Destaque
 
 #### ⚡ [Zyron](https://github.com/raimundoemanuel94/zyron)
-Uma PWA fitness de alta performance focada em experiência **Mobile-Native**. Desenvolvida com React e Tailwind, priorizando densidade visual e fluidez para atletas de alto nível.
+PWA Premium para gestão de treinos. Foco total em **densidade visual** e **performance mobile**. Arquitetura clean-code sincronizada com Vercel.
 
 #### 🔧 Click Suporte
-Plataforma dedicada à gestão de serviços e suporte técnico especializado, otimizando o fluxo de atendimento e resolução de problemas.
+Solução integrada para gestão de serviços técnicos, otimizando o fluxo de diagnósticos e atendimento ao cliente.
 
 #### 🚜 White Cotton
-Interface moderna e intuitiva projetada para o setor do agronegócio, facilitando o acesso a informações críticas de mercado e gestão.
+Site institucional moderno para o agronegócio, unindo dados de mercado a uma interface fluida e profissional.
 
 ---
 
-### 📈 Estatísticas
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raimundoemanuel94&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundoemanuel94&layout=compact&langs_count=7&theme=omni"/>
+### 📊 Performance & Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raimundoemanuel94&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raimundoemanuel94&theme=radical&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundoemanuel94&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
 
-### 📫 Vamos conversar?
-- **Email**: [raimundoemanuel94@gmail.com](mailto:raimundoemanuel94@gmail.com)
-- **GitHub**: [github.com/raimundoemanuel94](https://github.com/raimundoemanuel94)
+### 📫 Contato & Conexão
 
-*"O sucesso não é o destino final, mas a coragem de continuar a evoluir todos os dias."*
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimundoemanuel94@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raimundoemanuel94)
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=raimundoemanuel94&color=yellow" alt="Visitors" />
+</div>
+
+<br/>
+
+<div align="center">
+  <i>"O sucesso não é o destino final, mas a coragem de continuar a evoluir todos os dias."</i>
+</div>
